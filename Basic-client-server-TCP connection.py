@@ -1,4 +1,4 @@
-# Step 1: Basic Client-Server TCP Connection
+
 
 # SERVER CODE (step1_server.py)
 import socket
